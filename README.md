@@ -18,7 +18,7 @@ Ini adalah repositori yang berisi project AI Object Detection (AI Deteksi Objek)
 Git clone https://github.com/eldykvlk/objectdetection
 ```
 
-2. Membuat direktori
+2. Masuk ke direktori
 ```
 cd objectdetection
 ```
